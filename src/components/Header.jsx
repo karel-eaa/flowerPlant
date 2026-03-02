@@ -19,7 +19,7 @@ export default function Header() {
         <header>
             <nav className="navbar bg-base-100 shadow-sm">
                 <div className="flex-1">
-                    <a className="btn btn-ghost text-xl">Flower Plant</a>
+                    <a className="btn btn-xs btn-ghost md:text-base text-xs">Flower Plant</a>
                 </div>
                 <div className="flex-none">
                     <ul className="menu menu-horizontal px-1">
