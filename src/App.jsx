@@ -31,7 +31,7 @@ const router = createBrowserRouter([
   }
 ], {
   // /flowerplant fot Github pages
-  basename: "/flowerplant"
+  basename: "/flowerPlant"
 })
 
 export default function App() {
