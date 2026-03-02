@@ -1,5 +1,6 @@
 import CardContainer from "../components/CardContainer";
 import Data from "../assets/data.json"
+import Tips from "../components/Tips";
 
 export default function HomeView() {
     return (
@@ -10,6 +11,9 @@ export default function HomeView() {
                     <p className="md:text-xl mb-[8px]">FlowerPlant is a community for plant enthusiasts, gardeners, and beginners looking to learn about
                         plant care.</p>
                     <b className="md:text-xl">Feel free to check out our free plant care guides.</b>
+                </div>
+                <div className="mb-[40px]">
+                    <Tips />
                 </div>
                 <div className="mb-[32px]">
                     <CardContainer plants={Data.map((item, index) => ({ ...item, id: index }))} />
