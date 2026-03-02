@@ -2,7 +2,7 @@
     {
         "commonName": "Snake plant",
         "scientificName": "Sansevieria trifasciata",
-        "imageName": "/snake-plant.jpg",
+        "imageName": "./snake-plant.jpg",
         "light": "Low to bright indirect light",
         "watering": "Every 2-3 weeks",
         "soil": "Well-draining cactus or succulent mix",
@@ -11,7 +11,7 @@
     {
         "commonName": "ZZ Plant",
         "scientificName": "Zamioculcas zamiifolia",
-        "imageName": "/zz-plant.jpg",
+        "imageName": "./zz-plant.jpg",
         "light": "Low to bright indirect light",
         "watering": "Every 2-3 weeks, allow soil to dry completely",
         "soil": "Well-draining potting mix",
@@ -20,7 +20,7 @@
     {
         "commonName": "Monstera",
         "scientificName": "Monstera deliciosa",
-        "imageName": "/monstera.jpg",
+        "imageName": "./monstera.jpg",
         "light": "Bright indirect light",
         "watering": "Every 1-2 weeks, allow top 2 inches of soil to dry",
         "soil": "Peat-based potting soil",
@@ -29,7 +29,7 @@
     {
         "commonName": "Pothos",
         "scientificName": "Epipremnum aureum",
-        "imageName": "/pothos.jpg",
+        "imageName": "./pothos.jpg",
         "light": "Low to bright indirect light",
         "watering": "Every 1-2 weeks",
         "soil": "Standard potting mix",
@@ -38,7 +38,7 @@
     {
         "commonName": "Fiddle Leaf Fig",
         "scientificName": "Ficus lyrata",
-        "imageName": "/fiddle-leaf-fig.jpg",
+        "imageName": "./fiddle-leaf-fig.jpg",
         "light": "Bright indirect light to some direct sun",
         "watering": "When top inch of soil is dry",
         "soil": "Well-draining potting mix",
@@ -47,7 +47,7 @@
     {
         "commonName": "Aloe Vera",
         "scientificName": "Aloe barbadensis miller",
-        "imageName": "/aloe-vera.jpg",
+        "imageName": "./aloe-vera.jpg",
         "light": "Bright indirect light",
         "watering": "Every 3 weeks, allow soil to dry completely",
         "soil": "Cactus or succulent mix",
@@ -56,7 +56,7 @@
     {
         "commonName": "Peace Lily",
         "scientificName": "Spathiphyllum",
-        "imageName": "/peace-lily.jpg",
+        "imageName": "./peace-lily.jpg",
         "light": "Low to bright indirect light",
         "watering": "Keep soil consistently moist",
         "soil": "Peat-based potting soil",
@@ -65,7 +65,7 @@
     {
         "commonName": "Calathea",
         "scientificName": "Calathea spp.",
-        "imageName": "/calathea.jpg",
+        "imageName": "./calathea.jpg",
         "light": "Medium to bright indirect light",
         "watering": "Keep soil moist but not soggy, uses distilled water",
         "soil": "Peat-heavy potting mix",
