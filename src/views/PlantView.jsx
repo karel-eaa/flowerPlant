@@ -36,7 +36,7 @@ export default function PlantView() {
                         <p><IoHandRightOutline className="inline size-6 md:size-8" />&nbsp;&nbsp;{dataItem.level}</p>
                     </div>
                     <div className="basis-full mt-[32px] md:basis-1/2">
-                        {local === "true" ? null : <img className="" src={dataItem.imageName} alt={dataItem.commonName} />}
+                        {local === "true" ? null : <img className="" src={"../../" + dataItem.imageName} alt={dataItem.commonName} />}
                     </div>
                 </div>
             </div>
